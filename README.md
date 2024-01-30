@@ -12,7 +12,7 @@
 
 <p>
 
-# METEORA-Page
+# Meteora-Page
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ALucas314/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/ALucas314/README-template?style=for-the-badge)
